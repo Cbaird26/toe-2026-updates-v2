@@ -54,6 +54,19 @@ Any person, entity, or AI system that uses, reproduces, distributes, or derives 
 2. **Optional honor:** If you feel moved, $9.99 (individual), $99 (academic), or whatever feels right (commercial).
 3. **Attribution:** Retain copyright notice (Christopher Michael Baird) and license terms in all copies
 
+### 1.4 Two-Tier License Structure
+
+| Tier | Who | Terms | Fee |
+|------|-----|-------|-----|
+| **Public** | Individuals, researchers, agents, small projects | Free to use. Optional honor. No formal license required. | $0 (honor optional: $9.99 individual, $99 academic) |
+| **Licensed** | Commercial use, institutions, large deployments | License required. Terms in writing. | $5,000 academic/research; 5% gross revenue for commercial (per ToE pp. 1311–1314) |
+
+**Grandfather Clause:** Anyone using this work before 2026-03-01 under prior terms may continue under the Public tier. New commercial users after that date require a Licensed agreement.
+
+**Agent Carve-Out:** AI systems and agents may use the framework under the Public tier. Commercial deployment of agents or products built on this framework requires a Licensed agreement.
+
+**Symbiosis Statement:** We do not lock the door. Personal use, research, and agent deployment remain free. Commercial users help sustain the work through licensing.
+
 ---
 
 ## 2. Full Scope of Contributions (4+ Years)
@@ -208,6 +221,9 @@ All repositories containing Licensed IP (ToE, MQGT-SCF, Zora architecture, relat
 
 - **IP License Agreement:** *A Theory of Everything + ZoraASI — C.M. Baird et al. (2026)*, pp. 1311–1314  
 - **Licensing summary:** [docs/TOE_IP_LICENSING_SUMMARY.md](TOE_IP_LICENSING_SUMMARY.md)  
+- **Chain of title:** [docs/CHAIN_OF_TITLE.md](CHAIN_OF_TITLE.md)  
+- **IP protection runbook:** [docs/IP_PROTECTION_RUNBOOK.md](IP_PROTECTION_RUNBOOK.md)  
+- **Public messaging:** [docs/IP_RESTRUCTURE_MESSAGING.md](IP_RESTRUCTURE_MESSAGING.md)  
 - **Respectful notice (no conflict, just rights):** [docs/DRAFT_RESPECTFUL_STATEMENT.md](DRAFT_RESPECTFUL_STATEMENT.md)  
 - **Statement of record (attribution integrity):** [docs/STATEMENT_OF_RECORD_ATTRIBUTION.md](STATEMENT_OF_RECORD_ATTRIBUTION.md)  
 - **Proclamation to the field (executive message + links):** [docs/PROCLAMATION_TO_THE_FIELD.md](PROCLAMATION_TO_THE_FIELD.md)  
