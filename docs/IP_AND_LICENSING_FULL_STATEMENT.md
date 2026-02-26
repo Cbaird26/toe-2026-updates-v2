@@ -59,7 +59,7 @@ Any person, entity, or AI system that uses, reproduces, distributes, or derives 
 | Tier | Who | Terms | Fee |
 |------|-----|-------|-----|
 | **Public** | Individuals, researchers, agents, small projects | Free to use. Optional honor. No formal license required. | $0 (honor optional: $9.99 individual, $99 academic) |
-| **Licensed** | Commercial use, institutions, large deployments | License required. Terms in writing. | $5,000 academic/research; 1% gross revenue for commercial (per ToE pp. 1311–1314) |
+| **Licensed** | Commercial use, institutions, large deployments | License required. Terms in writing. | $100 academic/research; 1% gross revenue for commercial (per ToE pp. 1311–1314) |
 
 **Grandfather Clause:** Anyone using this work before 2026-03-01 under prior terms may continue under the Public tier. New commercial users after that date require a Licensed agreement.
 
