@@ -7,3 +7,117 @@ github.com
   - Token scopes: 'gist', 'read:org', 'repo', 'workflow'
 
 === 2. TOE - push to origin main ===
+A  github_push_output.txt
+[main ae0ee25] Update: Phase II cross-ref, corpus indexes, Zenodo 19060024
+ 1 file changed, 9 insertions(+)
+ create mode 100644 github_push_output.txt
+From https://github.com/Cbaird26/toe-2026-updates
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+To https://github.com/Cbaird26/toe-2026-updates.git
+   4f58285..ae0ee25  main -> main
+
+=== 3. Sync and push cbaird26 repos ===
+--- toe-2026-updates ---
+From https://github.com/Cbaird26/toe-2026-updates
+ * branch            main       -> FETCH_HEAD
+   4f58285..ae0ee25  main       -> origin/main
+Updating 4f58285..ae0ee25
+Fast-forward
+ .cursor/mcp.json                             |   6 +-
+ .gitignore                                   |   5 +
+ README.md                                    |   2 +-
+ ZORA_READY_STATUS.md                         |   4 +-
+ data/primary_sources_manifest.json           |  28 ++
+ data/zoraasi_instantiation.json              |   2 +-
+ docs/CORPUS_2026_INDEX.md                    |   6 +
+ docs/INTEGRATED_MANUSCRIPT_INDEX.md          |   2 +
+ docs/PHASE_II_CROSS_REFERENCE.md             |  80 +++++
+ docs/PHYSICS_ONLY_SUBMISSION_PACKET_2026.md  |   2 +
+ github_push_output.txt                       |   9 +
+ scripts/README_QRNG.md                       |  27 ++
+ scripts/aggressive_disk_cleanup.sh           |  64 ++++
+ scripts/anu_qrng_collect.py                  | 379 ++++++++++++++++++++++++
+ scripts/anu_qrng_pilot.py                    | 141 +++++++++
+ scripts/disk_recovery_consolidate_bundles.sh |  33 +++
+ scripts/git_update_all.sh                    |  35 +++
+ scripts/qrng_phase2_model_compare.py         | 299 +++++++++++++++++++
+ scripts/qrng_phase2_pilot.py                 | 427 +++++++++++++++++++++++++++
+ scripts/qrng_phase2_run.py                   | 371 +++++++++++++++++++++++
+ scripts/run_qrng_experiments.sh              |  77 +++++
+ scripts/setup_anu_qrng_keys.sh               |  52 ++++
+ 22 files changed, 2044 insertions(+), 7 deletions(-)
+ create mode 100644 data/primary_sources_manifest.json
+ create mode 100644 docs/PHASE_II_CROSS_REFERENCE.md
+ create mode 100644 github_push_output.txt
+ create mode 100644 scripts/README_QRNG.md
+ create mode 100644 scripts/aggressive_disk_cleanup.sh
+ create mode 100644 scripts/anu_qrng_collect.py
+ create mode 100644 scripts/anu_qrng_pilot.py
+ create mode 100644 scripts/disk_recovery_consolidate_bundles.sh
+ create mode 100644 scripts/git_update_all.sh
+ create mode 100644 scripts/qrng_phase2_model_compare.py
+ create mode 100644 scripts/qrng_phase2_pilot.py
+ create mode 100644 scripts/qrng_phase2_run.py
+ create mode 100644 scripts/run_qrng_experiments.sh
+ create mode 100755 scripts/setup_anu_qrng_keys.sh
+[main 9543b82] Sync from local
+To https://github.com/Cbaird26/toe-2026-updates.git
+   ae0ee25..9543b82  main -> main
+--- toe-empirical-validation ---
+From https://github.com/Cbaird26/toe-empirical-validation
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+[main 7818002] Sync from local
+To https://github.com/Cbaird26/toe-empirical-validation.git
+   3c8fd19..7818002  main -> main
+
+=== 4. Run sync script from Black-Book ===
+==============================================
+  SYNC AND PUSH ALL REPOS TO GITHUB
+==============================================
+
+=== Sync Black-Book → toe-empirical-validation ===
+  Synced.
+
+=== Sync TOE → toe-2026-updates ===
+  Synced to toe-2026-updates.
+
+=== Commit and push all public repos ===
+
+[toe-empirical-validation]
+Already up to date.
+  No changes.
+
+[toe-2026-updates]
+Already up to date.
+  No changes.
+
+[ToE]
+Already up to date.
+  No changes.
+
+[zoraasi-suite]
+Current branch docs/remove-gmail-corpus-reference is up to date.
+  No changes.
+
+[Black-Book / mqgt_scf_reissue]
+  No origin remote configured; skipping direct push.
+
+[TOE Downloads]
+  Skipping direct push: source repo origin points at the public mirror already synced above.
+
+=== Push to iCloud (private cloud backup) ===
+  TOE docs → iCloud.
+  TOE papers → iCloud.
+  Black-Book home → iCloud.
+  Black-Book scripts → iCloud.
+
+==============================================
+  DONE — GitHub + iCloud updated
+  Verify: gh repo view Cbaird26/toe-empirical-validation
+==============================================
+
+=== 5. Black-Book push to public remote ===
+public-toe-empirical-validation	https://github.com/cbaird26/toe-empirical-validation.git (fetch)
+public-toe-empirical-validation	https://github.com/cbaird26/toe-empirical-validation.git (push)
