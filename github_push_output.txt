@@ -1,0 +1,9 @@
+=== 1. gh auth status ===
+github.com
+  ✓ Logged in to github.com account Cbaird26 (keyring)
+  - Active account: true
+  - Git operations protocol: https
+  - Token: gho_************************************
+  - Token scopes: 'gist', 'read:org', 'repo', 'workflow'
+
+=== 2. TOE - push to origin main ===
