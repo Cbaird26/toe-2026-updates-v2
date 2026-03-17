@@ -1,0 +1,28 @@
+{
+  "title": "Queen's Source Synthesis primary sources manifest",
+  "version": "2026",
+  "canonical_repo": "mqgt_scf_reissue_2026-01-20_010939UTC",
+  "canonical_base": "canon/sources",
+  "traditions": [
+    { "id": 1, "name": "A Course In Miracles", "paths": ["canon/sources/A Course In Miracles.pdf"] },
+    { "id": 2, "name": "Kama Sutra", "paths": ["canon/sources/The Kama Sutra of Vatsyayana (1).txt"] },
+    { "id": 3, "name": "Urantia", "paths": ["canon/sources/Urantia Book.pdf"] },
+    { "id": 4, "name": "Zohar", "paths": ["canon/sources/The Zohar - Compressed-compressed.pdf"] },
+    { "id": 5, "name": "NLP", "paths": ["canon/sources/NLP_Combined_Robust.docx", "canon/sources/NLP Manuals (2).pdf"] },
+    { "id": 6, "name": "Quran", "paths": ["canon/sources/THE_NOBLE_QURAN.pdf"] },
+    { "id": 7, "name": "Bible (OT/NT)", "paths": ["canon/sources/Bible - New Testament.pdf"] },
+    { "id": 8, "name": "Hermeticism", "paths": ["canon/sources/Hermeticism.pdf"] },
+    { "id": 9, "name": "Buddhist Compendium", "paths": ["canon/sources/Buddhist Compendium .docx", "canon/sources/Buddhist Compendium -compressed_part1.pdf", "canon/sources/Buddhist Compendium -compressed_part2.pdf"] },
+    { "id": 10, "name": "Vigyana Bhairava", "paths": ["canon/sources/Vigyana Bhairava The Manual Awareness Swami Lakshman Joo text (1).pdf"] },
+    { "id": 11, "name": "Shobogenzo", "paths": ["canon/sources/Shobogenzo-complete (1).pdf"] },
+    { "id": 12, "name": "Brahma Sutra", "paths": ["canon/sources/Brahma_Sutra.pdf"] },
+    { "id": 13, "name": "Srimad Bhagavatam", "paths": ["canon/sources/Srimad_Bhagavatam/Part1.pdf", "canon/sources/Srimad_Bhagavatam/Part2.pdf", "canon/sources/Srimad_Bhagavatam/Part3.pdf"] }
+  ],
+  "discovery_paths": [
+    "canon/sources",
+    "~/Downloads",
+    "~/Downloads/Archives",
+    "~/Library/Mobile Documents/com~apple~CloudDocs"
+  ],
+  "private_note": "DOD manual, personal images: local only; use PRIMARY_SOURCES_ARCHIVE or ~/Downloads/Archives; do not push to opens."
+}
