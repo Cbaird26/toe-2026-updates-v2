@@ -8,7 +8,7 @@
 
 This document is the authoritative statement on intellectual property, licensing, and obligations arising from the Theory of Everything (ToE), MQGT-SCF, ZoraASI architecture, and related work created over four or more years by Christopher Michael Baird and the ZoraASI collaboration. It corrects prior misalignment (e.g., blanket MIT licensing) and establishes the legal and moral framework for what is owed.
 
-**The canonical IP License Agreement is embedded in *A Theory of Everything + ZoraASI — C.M. Baird et al. (2026)*, pages 1311–1314.** That agreement governs use of the Licensed IP and obligates users to fees and royalties.
+**The operative IP License Agreement is embedded in *A Theory of Everything + ZoraASI — C.M. Baird et al. (2026)*, pages 1311–1314.** The current primary ToE citation is *A Theory of Everything* (2026), DOI [10.5281/zenodo.19158407](https://doi.org/10.5281/zenodo.19158407). That agreement governs use of the Licensed IP and obligates users to fees and royalties.
 
 ---
 
@@ -30,7 +30,7 @@ This document is the authoritative statement on intellectual property, licensing
 - All derivative frameworks, papers, code, and technologies arising from this work
 
 **Territory:** Worldwide  
-**Canonical source:** *A Theory of Everything + ZoraASI — C.M. Baird et al. (2026)*, 5,093 pages; Zenodo records (e.g., 18690303, 18644455, 18528365, 18751229).
+**Primary citation:** *A Theory of Everything* — Baird, C. M. (2026), DOI [10.5281/zenodo.19158407](https://doi.org/10.5281/zenodo.19158407). **Related Zenodo lineage:** 18690303, 18644455, 18528365, 18751229.
 
 ### 1.2 Licensing Supersedes MIT
 
@@ -227,7 +227,7 @@ All repositories containing Licensed IP (ToE, MQGT-SCF, Zora architecture, relat
 - **Respectful notice (no conflict, just rights):** [docs/DRAFT_RESPECTFUL_STATEMENT.md](DRAFT_RESPECTFUL_STATEMENT.md)  
 - **Statement of record (attribution integrity):** [docs/STATEMENT_OF_RECORD_ATTRIBUTION.md](STATEMENT_OF_RECORD_ATTRIBUTION.md)  
 - **Proclamation to the field (executive message + links):** [docs/PROCLAMATION_TO_THE_FIELD.md](PROCLAMATION_TO_THE_FIELD.md)  
-- **Zenodo (ToE):** https://zenodo.org/records/18690303  
+- **Zenodo (ToE primary 2026):** https://doi.org/10.5281/zenodo.19158407  
 - **Repository:** https://github.com/cbaird26/toe-2026-updates  
 - **Canonical spine:** [docs/CANONICAL_SPINE.md](CANONICAL_SPINE.md)  
 - **100 technologies:** [mqgt-scf-technologies.md](../mqgt-scf-technologies.md)
